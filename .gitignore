@@ -65,3 +65,7 @@ v
 
 # VSCode
 .vscode
+
+# Translations
+*.mo
+*.pot
